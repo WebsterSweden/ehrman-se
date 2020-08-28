@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Git version control.
 .git
 
@@ -8,10 +7,5 @@
 # Visual Studio Code.
 .vscode
 
-=======
-# Macintosh operating system.
-.DS_Store
-
->>>>>>> 65b2941c1390df034e34754c1b131b730ae1fd06
 # Windows operating system.
 Thumbs.db
